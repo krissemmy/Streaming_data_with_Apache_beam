@@ -7,7 +7,7 @@ This repository contains the code for a sensor data processing pipeline implemen
 
 ### Part 1: Simulating Sensor Data
 
-To simulate sensor data and publish it to a Pub/Sub topic, run the `sensor_data_simulator.py` script. This script generates random sensor readings for five sensors and publishes them to the specified Pub/Sub topic at regular intervals.
+To simulate sensor data and publish it to a Pub/Sub topic, run the `pubsub_publisher.py` script. This script generates random sensor readings for five sensors and publishes them to the specified Pub/Sub topic at regular intervals.
 
 #### Usage
 ```
